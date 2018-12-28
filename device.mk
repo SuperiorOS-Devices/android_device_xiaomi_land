@@ -444,3 +444,7 @@ PRODUCT_PACKAGES += \
 
  PRODUCT_BOOT_JARS += \
     WfdCommon
+
+# Launcher3
+PRODUCT_PACKAGES += \
+    Launcher3QuickStep
