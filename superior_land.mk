@@ -24,6 +24,9 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit some common Superior stuff
 $(call inherit-product, vendor/superior/config/common.mk)
 
+#Boot Animation res
+TARGET_BOOT_ANIMATION_RES := 720
+
 # Inherit from land device
 $(call inherit-product, $(DEVICE_PATH)/device.mk)
 
