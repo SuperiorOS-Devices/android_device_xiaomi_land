@@ -682,6 +682,7 @@ lib/libFileMux.so
 lib/libmmosal.so
 lib/libmmrtpdecoder.so
 lib/libmmrtpencoder.so
+lib/libOmxMux.so
 lib/libmmparser_lite.so
 lib/libwfdavenhancements.so
 lib/libwfdclient.so
@@ -715,3 +716,4 @@ vendor/lib/libwfdhaldsmanager.so
 vendor/lib/libwfdhdcpcp.so
 vendor/lib/libwfdmmservice.so
 vendor/lib/libwfdmodulehdcpsession.so
+vendor/lib64/libwfdhdcpcp.so
