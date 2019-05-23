@@ -327,11 +327,7 @@ PRODUCT_PACKAGES += \
 
 # Power
 PRODUCT_PACKAGES += \
-    power.qcom
-    
-PRODUCT_PACKAGES += \
-    android.hardware.power@1.0-impl \
-    android.hardware.power@1.0-service
+    android.hardware.power@1.2-service
 
 PRODUCT_PACKAGES += \
     android.hardware.radio.config@1.0 \
